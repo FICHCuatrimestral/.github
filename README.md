@@ -20,6 +20,7 @@ Apuntes, prácticas y proyectos de la carrera de Ingeniería en Informática —
 | [**SistemasOperativos**](https://github.com/FICHCuatrimestral/SistemasOperativos) | Procesos, hilos, sincronización, memoria virtual, sistemas de archivos y planificación de discos — con prácticas en C++. |
 | [**APS**](https://github.com/FICHCuatrimestral/APS) | Administración de Proyectos de Software: PMBOK, EDT, valor ganado, gestión de riesgos y recursos, CMMI. |
 | [**InteligenciaComputacional**](https://github.com/FICHCuatrimestral/InteligenciaComputacional) | Redes neuronales, sistemas basados en conocimiento, lógica borrosa y computación evolutiva — cursando actualmente. |
+| [**MecanicaComputacional**](https://github.com/FICHCuatrimestral/MecanicaComputacional) | Diferencias finitas (1D y 2D), residuos ponderados y elementos finitos: resúmenes propios con números verificados, guías prácticas resueltas en Python y preparación del parcial — cursando actualmente. |
 
 ## Proyectos
 
@@ -30,6 +31,12 @@ Dos simulaciones de fluidos que nacieron como visualizaciones de Mecánica del C
 | [**FluidSim**](https://github.com/FICHCuatrimestral/FluidSim) | SPH (Lagrangiano) 3D en Unity/C#, sobre GPU. |
 | [**FluidWeb**](https://github.com/FICHCuatrimestral/FluidWeb) | Stable Fluids (Euleriano) 2D interactivo, corriendo en el navegador con WebGL2. |
 
+Software de Mecánica Computacional:
+
+| Repo | Qué es |
+|---|---|
+| [**prometheus-python**](https://github.com/FICHCuatrimestral/prometheus-python) | Port a Python de ProMetheus, el software de la cátedra: FDM, FVM y FEM 2D (calor y elasticidad plana), validador de módulos, front web (ProMetheus Lab), API con Docker y verificación contra el original en Octave. |
+
 TPs de Computación Gráfica con repo propio:
 
 | Repo | Qué es |
@@ -39,4 +46,4 @@ TPs de Computación Gráfica con repo propio:
 
 ## Tecnologías
 
-`Python` · `C#` (Unity) · `TypeScript` / WebGL2 · `SQL` (Postgres) · `Docker` · `Quarto` / reveal.js · Packet Tracer
+`Python` · `C#` (Unity) · `TypeScript` / WebGL2 · `SQL` (Postgres) · `Docker` · `FastAPI` · `GNU Octave` · `Quarto` / reveal.js · Packet Tracer
